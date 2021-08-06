@@ -6,6 +6,6 @@ services:
     image: audio/api:v1.0.0
     restart: unless-stopped
     ports:
-      - "3000:3000"
+      - "3002:3000"
     env_file:
       - ${PWD}/.env
