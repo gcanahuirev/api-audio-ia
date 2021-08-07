@@ -1,5 +1,6 @@
 ### dotenv ###
 .env
+.wav
 
 ### Node ###
 # Logs
