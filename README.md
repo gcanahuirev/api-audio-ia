@@ -5,3 +5,19 @@
 `body: voide(file) -> myvoice.wav`
 
 There is a example audio in src/tmp/ directory
+
+## Install dependencies
+``` sh
+$ yarn
+```
+
+## Run server
+``` sh
+$ yarn start
+```
+
+## Environments (opcional)
+``` yaml
+PORT=
+NODE_ENV=
+```
